@@ -12,6 +12,7 @@ module.exports = {
       dark: "hsl(217, 19%, 38%)",
       darker: "hsl(217, 19%, 24%)",
       darker2: "hsl(218, 23%, 16%)",
+      white: "#fff",
     },
     extend: {
       keyframes: {

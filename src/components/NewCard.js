@@ -17,7 +17,7 @@ const NewCard = ({ quote, onSubmit, animate, fade, setFade, setAnimate }) => {
 
   return (
     <main className={style.card}>
-      <span className={style.id}>advice #{quote.id}</span>
+      <span className={style.id}>excuse #{quote.id}</span>
       <p
         id="quote"
         className={style.advice}
@@ -25,7 +25,7 @@ const NewCard = ({ quote, onSubmit, animate, fade, setFade, setAnimate }) => {
           setFade(false);
         }}
       >
-        "{quote.advice}"
+        "{quote.excuse}"
       </p>
       <img
         src={dividerSmall}
