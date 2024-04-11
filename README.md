@@ -6,15 +6,15 @@
   </a>
 </p>
 
-> &#34;Quote's Generator&#34; is application where user will get advices in every click. The applicaiton uses api from the website adviceslip.
+> &#34;Excuse Generator&#34; is application where user will get excuses in every click. The applicaiton fetches the data from the excuses.json file located in the data folder.
 
 ## Features
   - Reusable Cards
-  - Get Advices in Every Refresh
+  - Get Excuses in Every Refresh
   - Styled using Tailwind CSS
   
 
-## ✨ [Demo](https://quotes-generator-sw.netlify.app/)
+## ✨ [Demo](https://excuses-generator.ahmadswalih.com)
 
 ### 🏠 [Homepage](/src/App.js)
 
