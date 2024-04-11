@@ -24,11 +24,11 @@ const App = () => {
 
   return (
     <div className="App">
-      <div className="flex flex-col  mt-60 items-center justify-center">
-        <h1 className=" text-green text-center items-center justify-center  text-5xl ">
+      <div className="flex flex-col mt-16 md:mt-60 items-center justify-center">
+        <h1 className=" text-green text-center items-center justify-center text-3xl  md:text-5xl ">
           Excuse Generator
         </h1>
-        <p className="text-white mt-3 font-body ">
+        <p className="text-white text-center mt-3  font-body ">
           Dedicated to the people who want excuses for anything{" "}
         </p>
       </div>
@@ -42,6 +42,11 @@ const App = () => {
           onSubmit={onSubmit}
         />
       </div>
+      <footer className="absolute mb-10  bottom-0 w-full text-center text-green">
+        <a className="" href="https://ahmadswalih.com" target="_blank">
+          © ahmadswalih.com ➚
+        </a>
+      </footer>
     </div>
   );
 };
