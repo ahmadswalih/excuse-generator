@@ -14,7 +14,7 @@
   - Styled using Tailwind CSS
   
 
-## ✨ [Demo](https://excuses-generator.ahmadswalih.com)
+## ✨ [Demo](https://excuse-generator.ahmadswalih.com)
 
 ### 🏠 [Homepage](/src/App.js)
 
