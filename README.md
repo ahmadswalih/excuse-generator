@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Quote's Generator 👋</h1>
+<h1 align="center">Welcome to Excuse Generator 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="/main/LICENSE" target="_blank">
